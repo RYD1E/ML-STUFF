@@ -19,7 +19,9 @@ For students 🎓: This enchanted trove serves as a companion to your formal stu
 
 For practitioners 💼: Seek inspiration and reference in the scrolls of the ancients. Adapt and weave new spells and rituals (algorithms and techniques) to suit your unique quests and endeavors. 🛠️🔬
 
+
 Contributions:
+
 The repository's magic thrives on the collective wisdom of the community! Contribute your own incantations, correct incantation scrolls, or craft entirely new spells. Together, we shall advance the arcane arts of machine learning! 🌟🤝
 
 
