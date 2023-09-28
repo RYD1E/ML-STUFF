@@ -1,5 +1,6 @@
 # ML-STUFF
 Greetings, fellow code wizards and data sorcerers! Behold the "ML Stuff" repository, a sanctum of arcane knowledge and mystical algorithms designed to illuminate the path of machine learning mastery. 🚀✨
+
 Contents:
 
 Projects 🛠️: In this enchanted realm, find an array of machine learning projects, each a testament to the power of algorithms in realms as diverse as image incantations and linguistic alchemy. Delve deep into the incantations to uncover the secrets of machine learning sorcery. 🖼️📊
